@@ -1,17 +1,17 @@
 #the mod name as displayed in-game
-displayName: "Gargantua. Below and Beyond"
+displayName: "[cyan]Gargantua. Below and Beyond"
 
 #the internal name of your mod
 name: "gargantua-mod"
 
 #your name
-author: "Equal"
+author: "[bold]Equal"
 
 #the fully qualified main class of the mod
-main: "garganrua.GargantuaMod"
+main: "gargantua.GargantuaMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "Mod, that will rotate your experience for about 720 degree.\nMod name is cringe af though :/"
 
 #the mod version
 version: 1.0
